@@ -1,0 +1,10 @@
+# Current Milestone 2 analysis and notebook runtime.
+# Versions are unpinned until the original execution environment is recorded.
+numpy
+pandas
+matplotlib
+pyproj
+shapely
+scikit-learn
+notebook
+ipykernel
